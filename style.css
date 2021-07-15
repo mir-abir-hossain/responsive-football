@@ -1,13 +1,20 @@
 /* top-part styles */
 
 .top-part {
-    /* width: 900px; */
+    width: 1400px;
+    height: 590px;
     background-color: #2D25A0;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
     padding-top: 10px;
     padding-bottom: 20px;
+}
+
+#top-box-text {
+    height: 230px;
+    width: 485px;
+    margin-bottom: 27px;
 }
 
 .inside-top-box {
@@ -18,8 +25,14 @@
     width: 400px;
 }
 
+.inside-top-box button {
+    height: 44px;
+    width: 168px;
+}
+
 .top-box img {
-    width: 600px;
+    width: 556px;
+    height: 438px;
 }
 
  .inside-top-box button {
